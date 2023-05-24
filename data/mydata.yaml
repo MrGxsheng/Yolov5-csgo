@@ -1,0 +1,15 @@
+#path: ../datasets/coco128
+train: E:/yolov5-master/data/mydata/images/train
+val: E:/yolov5-master/data/mydata/images/val
+
+# Classes
+names:
+  0: T_HEAD
+  1: CT_HEAD
+  2: T_BODY
+  3: CT_BODY
+
+
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
